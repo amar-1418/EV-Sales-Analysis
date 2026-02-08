@@ -7,9 +7,10 @@ The objective of this study is to evaluate the Indian EV landscape, covering bot
 📊 Key Insights & KPIs
 Hyper-Growth: The industry is witnessing a massive 93.91% CAGR, indicating a rapid transition toward sustainable mobility.
 Volume Milestone: The market has surpassed 2 million total EV units sold.
+
 Market Leadership:
-2-Wheelers: Ola Electric dominates with a 24.5% market share and 489,473 units sold.
-4-Wheelers: Luxury brands are seeing explosive growth, specifically **BMW India (1140.97% CAGR)** and **Volvo Auto (971.21% CAGR)**.
+>2-Wheelers: Ola Electric dominates with a 24.5% market share and 489,473 units sold.
+>4-Wheelers: Luxury brands are seeing explosive growth, specifically **BMW India (1140.97% CAGR)** and **Volvo Auto (971.21% CAGR)**.
 
 🗺️ Geographic Analysis
 High EV penetration and growth are concentrated in specific clusters:
@@ -23,9 +24,9 @@ Understanding consumer behavior is vital for inventory and marketing strategies:
 >Low Months: June typically experiences the lowest sales.
 
 🛠️ Strategic Recommendations
-Infrastructure Priority: With 2M units on the road, scaling charging stations and service centers is now a primary requirement.
-Regional Tailoring: Marketing campaigns should be customized to local preferences to ensure higher engagement.
-Inventory Optimization: Align stock levels with seasonal peaks to prevent excess inventory during low-demand months.
+>Infrastructure Priority: With 2M units on the road, scaling charging stations and service centers is now a primary requirement.
+>Regional Tailoring: Marketing campaigns should be customized to local preferences to ensure higher engagement.
+>Inventory Optimization: Align stock levels with seasonal peaks to prevent excess inventory during low-demand months.
 
 🚀 About the Analyst
 S Amarnath Data Analyst | BBA Graduate 
