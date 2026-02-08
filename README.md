@@ -28,7 +28,7 @@ Understanding consumer behavior is vital for inventory and marketing strategies:
 >Regional Tailoring: Marketing campaigns should be customized to local preferences to ensure higher engagement.
 >Inventory Optimization: Align stock levels with seasonal peaks to prevent excess inventory during low-demand months.
 
-🚀 About the Analyst
+🚀 About the Analyst :
 S Amarnath Data Analyst | BBA Graduate 
 Specialization: Transforming complex data into strategic business insights.
 
