@@ -40,6 +40,7 @@ Toolbox:
 SQL, Power BI, and Excel.
 
 LinkedIn: http://www.linkedin.com/in/s-amarnath-1b2221363
+
 Email: amaranath393@gmail.com 
 
 
