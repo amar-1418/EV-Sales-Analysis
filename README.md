@@ -1,4 +1,4 @@
-![image alt](image_github.png)
+![image alt](Png_Cover_Photo.png)
 AtliQ Motors: Indian EV Market Analysis
 >This repository contains a comprehensive data analysis and strategic roadmap for AtliQ Motors, a North American automotive leader with a 25% market share, as they plan their expansion into the Indian Electric Vehicle (EV) market.
 
